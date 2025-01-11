@@ -1,6 +1,7 @@
 # Mandelbrot-Fractal
 
 https://en.wikipedia.org/wiki/Mandelbrot_set
+
 https://github.com/donqustix/MandelbrotGL
 
 Simple Mandelbrot Fractal using OpenGL. At first, I created this little project in order to understand how to add some dependencies into a MSVC project using VCPKG. So, you need to integrate them according to these command lines (don't forget to allow the manifest use in the project properties panel) :
