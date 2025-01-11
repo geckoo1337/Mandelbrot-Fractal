@@ -11,5 +11,5 @@ Simple Mandelbrot Fractal using OpenGL. At first, I created this little project 
 **vcpkg add port glm**
 
 
-This project allows the user to interact with the shader modifying its value - position, zoom and iteration. The shader is available at the address written in the main code source. You can explore the fractal using arrow keys, zooming using (left) CTRL and ALT and increase/decrease iterations with PAGE_UP & PAGE_DOWN key. Cool stuff.
+This project allows the user to interact with the shader modifying its values - position, zoom and iteration. The shader is available at the address written in the main code source. You can explore the fractal using arrow keys, zooming using (left) CTRL and ALT and increase/decrease iterations with PAGE_UP & PAGE_DOWN keys. Cool stuff for a rainy day.
 Mathematical beauty ++
