@@ -8,7 +8,7 @@ Simple Mandelbrot Fractal demonstration using OpenGL. At first, I created this l
 
 **vcpkg integrate install**
 
-**vcpkg new --application** (*manifest accepted in the properties*)
+**vcpkg new --application** (*vcpkg manifest accepted in the properties*)
 
 **vcpkg add port glad**
 
